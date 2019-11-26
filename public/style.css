@@ -1,0 +1,14 @@
+body {
+  font-family: verdana;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  padding: 0.5rem;
+}
+header {
+  background-color: tomato;
+  color: white;
+}
